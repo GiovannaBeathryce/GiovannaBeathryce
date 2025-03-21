@@ -104,6 +104,8 @@
 
 <p align="left"></p>
 
+<br clear="both">
+
 ###
 
 <picture>
